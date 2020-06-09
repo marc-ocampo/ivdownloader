@@ -1,7 +1,5 @@
 #####################################################################
 # Python Script for copying SW packages
-# Script based from Bartosz Francman
-# Author : Marc Stephen D. Ocampo (marc.ocampo.ext@nsn.com)
 # 	Requires Python 3.4, BeautifulSoup library
 #	v0.1 - 20140603 draft
 #		 - 20140604 file transfer total time
